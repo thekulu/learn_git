@@ -10,8 +10,10 @@ czc
 czc
 czc
 czc
-czc: this edit is only in my branch
-czc: hello world !
+czc: merge
+czc: merge
+czc: merge
+czc: merge
 
 ldq
 ldq
